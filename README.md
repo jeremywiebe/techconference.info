@@ -8,7 +8,7 @@ A basic site listing tech conferences by city (Vancouver initially).
 
 1. List conferences by city (Title, Link, Date(s), City, Venue, Topic (iOS, etc), Tags)
 2. Accept submissions by email
-3. [SSL](https://devcenter.heroku.com/articles/ssl)
+3. Deploy: S3 + CloudFlare + SSL
 
 ### Future
 

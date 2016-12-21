@@ -3,19 +3,11 @@
   "version": "1.0.0",
   "description": "Website powering techconference.info",
   "main": "app.js",
-  "scripts": {
-    "start": "node src/app.js",
-    "start-dev": "nodemon --ext js,html ./src/app.js",
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
+  "scripts": {},
   "author": "Jeremy Wiebe",
   "license": "ISC",
-  "dependencies": {
-    "koa": "^1.2.4",
-    "koa-route": "^2.4.2",
-    "koa-static": "^2.0.0"
-  },
+  "dependencies": {},
   "devDependencies": {
-    "nodemon": "^1.11.0"
+    "harp": "^0.23.0"
   }
 }
